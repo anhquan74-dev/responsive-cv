@@ -950,6 +950,10 @@ li {
         align-items: center;
     }
 
+    .shape{
+        display: none;
+    }
+
     .rs-left__name,
     .rs-left__quote {
         text-align: center;
@@ -1119,3 +1123,5 @@ li {
         top: -16px;
     }
 }
+
+
